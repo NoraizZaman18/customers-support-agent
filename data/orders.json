@@ -1,0 +1,62 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_name": "Ali Khan",
+    "email": "ali@example.com",
+    "product": "Wireless Mouse",
+    "quantity": 1,
+    "price": 2500,
+    "status": "Delivered",
+    "order_date": "2025-07-01",
+    "expected_delivery": "2025-07-05",
+    "carrier": "TCS"
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_name": "Sara Ahmed",
+    "email": "sara@example.com",
+    "product": "Mechanical Keyboard",
+    "quantity": 1,
+    "price": 8500,
+    "status": "Shipped",
+    "order_date": "2025-07-10",
+    "expected_delivery": "2025-07-15",
+    "carrier": "Leopards Courier"
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_name": "Usman Malik",
+    "email": "usman@example.com",
+    "product": "Gaming Headset",
+    "quantity": 2,
+    "price": 12000,
+    "status": "Processing",
+    "order_date": "2025-07-12",
+    "expected_delivery": "2025-07-18",
+    "carrier": "Pending"
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_name": "Ayesha Noor",
+    "email": "ayesha@example.com",
+    "product": "Laptop Backpack",
+    "quantity": 1,
+    "price": 4500,
+    "status": "Cancelled",
+    "order_date": "2025-07-03",
+    "expected_delivery": "N/A",
+    "carrier": "N/A"
+  },
+  {
+    "order_id": "ORD1005",
+    "customer_name": "Hamza Ali",
+    "email": "hamza@example.com",
+    "product": "USB-C Hub",
+    "quantity": 1,
+    "price": 3200,
+    "status": "Returned",
+    "order_date": "2025-06-25",
+    "expected_delivery": "2025-06-30",
+    "carrier": "TCS"
+  }
+]
